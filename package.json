@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22"
+  }
+}

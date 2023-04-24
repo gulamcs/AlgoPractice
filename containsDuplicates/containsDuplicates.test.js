@@ -1,0 +1,1 @@
+const ContainsDuplicate = require('./containsDuplicates');
